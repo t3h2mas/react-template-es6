@@ -27,6 +27,12 @@ which will start the *webpack-dev-server* on port **3333**.
 
 you can edit the configutation in the `webpack.config.js` file.
 
-this will make your bundled js module for you and launch the dev server. 
+this will make your bundled js module for you and launch the dev server.
 
 the server will automatically reload the browser when any changes are made.
+
+## code away
+
+the template is designed with `App.js` as the React starting point.
+
+start there.
